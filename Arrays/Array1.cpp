@@ -1,3 +1,5 @@
+// Missing elements from an array with duplicates
+
 #include <iostream>
 using namespace std;
 
