@@ -34,5 +34,5 @@ int main() {
 
     cout << "Majority Element: " << obj.majorityElement(nums);
 
-    
+    return 0;
 }
